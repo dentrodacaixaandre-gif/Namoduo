@@ -1,5 +1,5 @@
 
-const DATA_ANDY="DD/MM/AAAA";
+const DATA_ANDY="28/10/2001";
 
 for(let i=0;i<40;i++){
  let p=document.createElement("div");
